@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+.~lock.*#
+~$*
+
+# keep everything else — this is a portfolio repo
