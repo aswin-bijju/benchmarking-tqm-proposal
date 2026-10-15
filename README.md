@@ -1,4 +1,4 @@
-# Benchmarking Proposal — Company XYZ Data Centres
+# Benchmarking Proposal — Company XYZ Data Centres - A Gartner Case Study
 
 A consulting proposal to redesign a global benchmarking programme as part of a **Total Quality Management (TQM)** strategy — replacing three high-risk simultaneous regional studies with a staggered, PDCA-driven approach screened by **FMEA**.
 
