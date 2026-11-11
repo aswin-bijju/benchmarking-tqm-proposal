@@ -48,7 +48,7 @@ Benchmarking (functional vs. competitive) · Total Quality Management (TQM) · D
 
 Harsha · Mann · Aswin Biju — Tutor: Udo Fehlings
 
-**Individual contribution (Aswin Biju):** *[confirm your specific role before publishing — e.g. FMEA/RPN risk-screening design, PDCA milestone structure, or the executive summary.]*
+**Individual contribution (Aswin Biju):** led the team, mapped the original programme and shaped the strategy of the new proposal, and designed the 14-slide proposal deck and the one-page executive summary.
 
 ## License
 
